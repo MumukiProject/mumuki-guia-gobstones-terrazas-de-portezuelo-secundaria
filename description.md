@@ -1,0 +1,1 @@
+Siguiendo nuestro viaje por la ciudad de San Luis nos encontramos con los tres edificios gubernamentales que, juntos, forman una pirámide :small_red_triangle:. Su nombre es _Terrazas de Portezuelo_ y se ubican en un cerro :mountain: poblado de plantas autóctonas que ocupa 22 hectáreas. ¡Conozcámoslas!
