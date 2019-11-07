@@ -1,0 +1,4 @@
+procedure PrenderLuz() {
+  Sacar(Negro)
+  Poner(Verde)
+}
