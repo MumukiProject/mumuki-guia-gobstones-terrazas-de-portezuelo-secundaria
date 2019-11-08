@@ -5,3 +5,10 @@ procedure PrenderLuzDelEdificio() {
     PrenderLuz() 
   }
 }
+
+procedure PrenderLuz() {
+  if(hayBolitas(Negro)){
+    Sacar(Negro)
+    Poner(Verde)
+  }
+}
