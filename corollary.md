@@ -1,0 +1,1 @@
+¡Excelente! :tada: Recorrimos las afueras de la ciudad de San Luis y conocimos Terrazas de Portezuelo :small_red_triangle:, que es donde se encuentran los ministerios y la Casa de Gobierno, y al Hito del Bicentenario :tokyo_tower: que tiene una porción de historia y un mirador. ¿Qué más podremos encontrar en la Provincia? ¡Descubrámoslo! :smile:
