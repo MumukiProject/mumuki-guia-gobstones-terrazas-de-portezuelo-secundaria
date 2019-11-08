@@ -20,4 +20,4 @@ GBB/1.0
      head 3 0
 </gs-board>
 
-> Escribí el programa para prender las luces de cada edificio y terminar en el casillero de abajo a la izquierda.
+> Dado el tablero anterior, escribí el programa para prender las luces de cada edificio y terminar en el casillero de abajo a la izquierda.
