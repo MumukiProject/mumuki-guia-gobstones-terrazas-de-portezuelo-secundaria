@@ -1,0 +1,1 @@
+Recordá que ya hiciste el procedimiento `PrenderLuzDelEdificio`.
