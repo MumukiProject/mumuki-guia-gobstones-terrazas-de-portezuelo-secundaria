@@ -1,3 +1,5 @@
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-terrazas-de-portezuelo-secundaria/master/assets/attires/config_1573236535263.json"></gs-attire>
+
 Al mirador del Hito se puede subir con ascensor o por escalera. Como son varios pisos, si nos cansamos :sleepy: podemos parar en alguno de los 15 descansos y leer sobre los 15 hitos más importantes de la historia. :open_mouth:
 
 <gs-board>
