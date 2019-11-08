@@ -1,0 +1,7 @@
+procedure PrenderLuzDelEdificio() {
+  PrenderLuz() 
+  repeat(3){
+    Mover(Norte)
+    PrenderLuz() 
+  }
+}
